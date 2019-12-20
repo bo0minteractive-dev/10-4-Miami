@@ -1,0 +1,21 @@
+V.000.000.207 Patch Nodes
+
+
+In This Patch we added some New Areas to the Level in the Beach Side.
+
+also we Worked on Optimazing the Workflow and the Folder Structure of the Game to Improve some Performance
+
+
+Added:
+
+- Added template to Buildings along the Ocean Drive
+- Added Textures to some Buildings
+- Added Flowers and Decor to some Buildings
+-  
+
+
+
+Working on:
+
+-
+-
